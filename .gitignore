@@ -1,0 +1,10 @@
+# Local visual checks; website assets are kept in images/.
+/*.png
+/*.jpg
+/*.jpeg
+
+# Local editor and operating-system files.
+.DS_Store
+Thumbs.db
+.vscode/
+*.log

@@ -1,0 +1,20 @@
+Generated with the built-in imagegen tool, 2026-10-17.
+Final assets: nav-paw-illustrated.png; nav-bone-illustrated.png.
+
+PAW
+Use case: illustration-story.
+Asset type: transparent website header hover icon.
+Primary request: A single upright extended dog's front paw with a short foreleg, palm facing viewer, four rounded toes and a large central paw pad. Redesign the current cream and caramel dog paw in the storybook illustration style of the user's reference: handmade gouache with colored-pencil strokes, visible dry-brush pigment and subtle paper grain, irregular painted contours, warm and charming.
+Composition: one isolated compact vertical silhouette filling 90% of a portrait canvas, all extremities visible, minimal transparent margin. It will be shown only 28 pixels wide, so keep the silhouette and pads bold and legible. Short foreleg below the paw, not a pawprint alone.
+Palette: warm cream fur, golden ochre shadows, soft terracotta/caramel pads. Slight darker painted contour for legibility, no heavy uniform vector outline.
+Background: genuinely transparent alpha, no paper rectangle. Texture is inside the painted object.
+Avoid: text, watermark, logos, background scene, human hands, multiple paws, bone, photorealism, glossy 3D, flat vector shapes, surrounding decorations.
+
+BONE
+Use case: illustration-story.
+Asset type: transparent website header selected-page icon, matching the companion painted dog paw.
+Primary request: One clearly recognizable dog bone alone, two rounded lobes at each end and a substantial connecting shaft, angled diagonally from lower left to upper right. Handmade children's picture-book gouache illustration with colored-pencil strokes, dry-brush pigment, gentle paper grain and irregular painted edges matching the user's storybook illustration reference.
+Composition: a single isolated chunky bone filling 90% of the canvas, all extremities visible, compact vertical-diagonal silhouette, minimal transparent margin. It will be displayed about 34 pixels wide so make the double lobes clear.
+Palette: warm ivory and pale butter yellow with golden ochre and terracotta pencil shading along the edges, matching a cream and caramel dog paw. Visible hand-painted marks, slight darker painted contour for contrast without a heavy uniform outline.
+Background: genuinely transparent alpha; paper grain only within the object, no paper rectangle.
+Avoid: paws, hands, other objects, text, logos, watermark, background scene, glossy 3D, photorealism, flat vector clip art, surrounding decorations.

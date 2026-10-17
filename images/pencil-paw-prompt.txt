@@ -1,0 +1,11 @@
+Generated with the built-in imagegen tool, 2026-10-17.
+Final asset: images/nav-paw-pencil.png.
+
+Use case: illustration-story.
+Asset type: a tiny minimalist colored-pencil dog paw icon for a website header.
+Primary request: ONE simple cartoon dog paw print, like a minimalist children's stationery illustration. Four small oval toe pads arranged above one rounded bean/heart-shaped central pad, all inside one compact soft scalloped ivory paw silhouette. No wrist, no arm, no individual fur hairs, no animal anatomy detail. Simple flat design with just six filled shapes.
+Style: delicately hand-drawn with colored pencils. Slightly imperfect soft edges, a few visible fine pencil strokes and subtle waxy paper-grain texture in the flat color. Calm and restrained, sweet and minimal. Every shape must be legible when displayed 34px tall.
+Palette: warm ivory outer silhouette with dusty rose/muted mauve pads, subtle muted tan pencil contour. Only 3 restrained colors. Flat and even shading.
+Composition: a single upright paw print, centered, nearly square, filling about 90% of the canvas, small transparent margin, all toes visible.
+Background: truly transparent alpha around the paw. No paper rectangle or surrounding wash.
+Avoid: watercolor, paint blooms, gouache, realistic fur, detailed furry paw, three-dimensional shading, highlights, shine, gradients, drop shadow, long foreleg, bone, other icons, decorations, text, logos, watermark.

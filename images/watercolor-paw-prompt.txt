@@ -1,0 +1,10 @@
+Generated with the built-in imagegen tool, 2026-10-17.
+Final asset: images/nav-paw-watercolor.png.
+
+Use case: illustration-story.
+Asset type: transparent website navigation watercolor illustration.
+Primary request: Redraw ONE compact dog's paw, underside facing the viewer, four rounded toe pads above one soft heart-like central pad, with only a tiny tufted wrist edge below the palm. A paw only, no long arm or leg. Charming genuine watercolor painting with translucent washes, pigment blooms, softly feathered edges and delicate cold-pressed paper grain inside the paint. Confident simple shapes that remain recognizable at 36 pixels tall.
+Palette: warm ivory/beige fur and muted terracotta/cinnamon pads, deeper burnt sienna pigment accents to contrast with a bright lemon yellow header.
+Composition: one isolated upright compact paw, centered, almost square proportions, fills 90% of canvas with small even transparent margins; all toes visible.
+Background: genuine transparent alpha outside the painted paw, no rectangular paper, no surrounding color wash.
+Constraints: one paw only. No bone, no other object, no text, no watermark, no scenery. Avoid heavy outlines, vector flat fills, pencil hatching, 3D, photorealism, long foreleg.

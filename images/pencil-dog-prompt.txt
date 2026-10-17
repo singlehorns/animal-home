@@ -1,0 +1,11 @@
+Generated with the built-in imagegen tool, 2026-10-17.
+Final asset: images/nav-dog-pencil.png.
+
+Use case: illustration-story.
+Asset type: tiny website navigation hover illustration, companion to a minimalist cream and dusty-rose colored-pencil paw print.
+Primary request: ONE complete little dog in side profile, standing and facing right, with a compact rounded body, short stubby legs, one floppy ear and a small upturned curved tail. A dog, not a paw or dog head alone. Sweet, restrained children's stationery illustration with very few flat simple shapes, legible at only 24 pixels wide.
+Medium: hand-drawn colored pencil, subtle fine pencil strokes and waxy paper grain, soft slightly uneven contours. Minimal detail, no fur strands, no realistic anatomy or volume.
+Palette: warm ivory body, light muted tan ear and one tan patch, tiny dusty-rose collar, very small dark brown dot nose and eye. Calm flat shading, no gradients.
+Composition: isolated whole dog centered on transparent canvas, compact nearly square composition, small even margins, all extremities and tail visible.
+Background: genuine transparent alpha outside the dog.
+Avoid: watercolor blooms, paint, 3D, realism, glossy highlights, heavy outlines, long legs, long foreground shadow, scenery, bones, multiple dogs, text, logos, watermarks, decorations.

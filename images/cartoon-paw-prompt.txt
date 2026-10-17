@@ -1,0 +1,7 @@
+Use case: illustration-story
+Asset type: transparent navigation illustration for an animal shelter website.
+Primary request: A single raised dog paw with a short extended foreleg, palm facing the viewer, upright like a friendly waving hand. Exactly four oval toe pads and one large rounded central paw pad, anatomically a dog paw, no human fingers. Cream-white fur silhouette and dusty muted maroon pads.
+Style/medium: Minimal American indie cartoon illustration, softly irregular charcoal-gray hand-inked outlines, flat muted pastel colors, friendly rounded shapes, subtle printed-paper grain inside the colored shapes only. Simple graphic readability at small navigation icon size. No realistic fur, no watercolor, no pencil shading, no 3D, no shiny finish.
+Composition: One isolated paw and foreleg only, centered, vertical portrait composition about 3:4, paw fingers occupying upper half, short foreleg extending straight down with gently curved closed base. Fill nearly all canvas with a small clear safety margin. All silhouette outlined clearly, small simple pads, no additional objects.
+Background: truly transparent alpha, no white rectangle, no cast shadow.
+Constraints: No dog head, no whole dog, no bone, no lettering, no frame, no decorative dots, no watermark. Keep this a warm, simple, bold outlined cartoon raised paw.
