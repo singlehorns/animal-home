@@ -88,3 +88,7 @@ Header 狗掌角度微調：五個分頁的導覽狗掌統一向左傾斜 7°，
 GitHub Pages
 Website: https://singlehorns.github.io/animal-home/
 Publishing source: main branch, repository root.
+
+
+照片更新（2026-10-22）
+全站23張照片已改用獨立生成的AI示意圖片，存放於images/generated/。生成提示詞與檔案資訊見同資料夾manifest.json。頁尾標明AI生成示意，照片不代表實際收容動物。原先下載的照片（包含已停用的舊素材）已從目前版本移除。

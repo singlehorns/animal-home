@@ -274,3 +274,9 @@ body.reference-layout{font-family:Roboto,'Noto Sans TC',sans-serif;font-size:16p
 @media(max-width:575px){.reference-story-grid{grid-template-columns:1fr;gap:35px}.reference-home-hero h1{font-size:36px}.reference-home-hero p{font-size:18px}.reference-layout .privacy-banner{width:calc(100% - 30px)}}
 @media(prefers-reduced-motion:reduce){.reference-layout .text-entrance{opacity:1!important;transform:none!important;filter:none!important;transition:none!important}.reference-layout .parallax{background-attachment:scroll!important}}
 @media(max-width:991px) and (prefers-reduced-motion:reduce){.reference-layout .reference-header .main-nav,.reference-layout .reference-header .main-nav.is-open{transition:none}}
+
+/* AI photo disclosure is shared by all pages. */
+.reference-layout .reference-footer .photo-notice{margin:24px 15px 0;font-size:12px;line-height:1.7;color:#667168;text-align:center}
+
+/* Keep the new hero subjects visible in a narrow portrait crop. */
+@media(max-width:575px){.reference-home-hero .hero-slide{object-position:84% center}}

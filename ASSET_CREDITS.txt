@@ -1,22 +1,7 @@
-照片來源：徐春水流浪狗之家 https://www.885.org.tw/
-本專案為本機視覺設計示範，照片使用權仍屬原權利人。
-
-home-1.jpg
-https://www.885.org.tw/userfiles/images/20240408015900580.jpg
-home-2.jpg
-https://www.885.org.tw/userfiles/images/20240408015851627.jpg
-home-3.jpg
-https://www.885.org.tw/userfiles/images/20240408015850272.jpg
-home-4.jpg
-https://www.885.org.tw/userfiles/images/20240408015848908.jpg
-home-5.jpg
-https://www.885.org.tw/userfiles/images/20240408015847193.jpg
-home-6.jpg
-https://www.885.org.tw/userfiles/images/20240408015845970.jpg
-daily-1.jpg
-https://www.885.org.tw/userfiles/images/book/20240408032051428.jpg
-daily-2.jpg
-https://www.885.org.tw/userfiles/images/book/20240409071906186.jpg
+全站照片更新（2026-10-22）
+網站現行23張照片使用OpenAI內建image_gen依文字描述獨立生成，非實際收容動物或園區的攝影紀錄。照片檔案位於images/generated/，逐張提示詞、生成日期、尺寸與SHA-256記錄於images/generated/manifest.json。
+首頁、內頁Banner、日常卡片、底部輪播及故事彈窗均已改用生成照片。此前從徐春水流浪狗之家與Happy House下載的照片（含未使用的前版照片）已從目前版本移除，不再由新版網站提供；歷史Git提交不在本次改寫範圍。
+生成流程未以舊照片作為圖像輸入。原有插圖、手寫字與材質來源記錄如下。
 
 Bootstrap v5.3.2 — Copyright 2011-2023 The Bootstrap Authors. MIT License.
 https://getbootstrap.com/
@@ -84,14 +69,3 @@ Header 美式卡通狗掌（2026-10-17）：內建 imagegen 重新繪製，米�
 日常紀錄分類按鈕：專案內繪製的 SVG 狗掌、餐碗、飼料袋與愛心小插圖，搭配不規則雙描邊、分類粉彩色與僅限按鈕範圍的 filter-pencil-grain.svg 細筆觸。非全站背景紙紋。
 
 首頁幫忙按鈕小狗：內建 imagegen 製作紙感粉彩趴姿、站姿及尾巴素材 images/hero-dog-resting.png、images/hero-dog-standing.png、images/hero-dog-tail.png；提示詞 images/hero-dog-prompts.txt。Hover／鍵盤焦點由趴著發呆切換為站立，尾巴獨立擺動。
-
-
-四個內頁照片替換（2026-10-17）：依使用者指定，關於我們、日常紀錄、幫助我們、聯絡我們的照片改採 Happy House／公益財團法人日本アニマルトラスト https://happyhouse.or.jp/ 的照片。照片權利屬原網站及原攝影者。本次沿用既有設計展示範圍；首頁原有照片保留。
-本機檔案：images/happyhouse/；逐張原始照片網址及來源頁記錄於 images/happyhouse/sources.json。僅替換照片，不匯入原網站文字、聯絡資料或標誌，也不表示合作或背書。
-
-
-四個內頁輪播照片修正（2026-10-17）：改採使用者截圖指定的 Happy House 首頁 .main_slide_css 六張輪播原圖 https://happyhouse.or.jp/img/top/slide01.webp 至 slide06.webp。來源頁 https://happyhouse.or.jp/ 。關於我們使用 slide02、05；日常紀錄使用 slide01、04；幫助我們使用 slide03；聯絡我們使用 slide06。四頁間不共用照片，頁內保留原有圖片位置。素材與逐張來源記錄見 images/happyhouse/carousel/sources.json；取代上一批工作日記／照片館照片的現行使用。
-
-
-2026 日記照片最新替換（2026-10-17）：四個內頁的內容區改用 Happy House 2026 年工作人員日記內的 17 張不同照片，來源 https://happyhouse.or.jp/staff_diary/ 。各個照片位置之間不重複（同一則日常紀錄開啟時顯示對應卡片照片）。逐張來源、文章與使用頁面見 images/happyhouse/2026/sources.json。前兩批照片館及輪播照片已不再用於這四個頁面的內容區。
-上方 Banner 恢復最初設定：about.html → home-3.jpg；daily.html → home-4.jpg；help.html → home-2.jpg；contact-us.html → home-1.jpg。首頁、字級、排版與插圖保留。
